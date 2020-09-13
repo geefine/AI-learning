@@ -1,0 +1,19 @@
+本周任务：
+1）理解GCN原理，并且能够看懂 跆拳道的例子，推荐参考资料【1】
+2) 知识点分解
+    什么是邻接矩阵，什么是度矩阵
+    GCN中的特征矩阵要知道是什么，一般都是数据集里面包含的内容
+    拉普拉斯算子（这类似一个公式，只需要自己理解就行）
+    什么是熵，什么是交叉熵，交叉熵损失函数（https://zhuanlan.zhihu.com/p/26551798）
+3）在理解理论的基础上，先看参考资料【1】的代码
+4）论文的代码
+
+
+参考资料
+【1】图神经网络（1）—— 基本概念                         https://blog.csdn.net/u012759262/article/details/103445173 
+【2】万物皆可embedding之图数据embedding-GCN详解（上）   https://aistudio.baidu.com/aistudio/projectdetail/340225
+【3】万物皆可embedding之图数据embedding-GCN详解（下）   https://aistudio.baidu.com/aistudio/projectdetail/395437
+上面提供的参考资料，仅是部分，大家需要会搜索，根据自己目前掌握的知识，来有针对性地学习。
+一定要做好笔记，每人要把自己的理解的，好好总结，写成博客。
+大家要组队，一起学习
+如果有好的资料大家要学会分享
